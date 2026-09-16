@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="APIs That Find Your Next Clients hero banner" width="100%" />
+<img src="./assets/hero.png" alt="APIs That Find Your Next Clients hero banner" width="100%" />
 
 <br />
 <br />
