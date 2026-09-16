@@ -2,7 +2,7 @@
 
 # 🎯 APIs That Find Your Next Clients
 
-<img src="https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765301877738-Generated%20Image%20December%2009%2C%202025%20-%2012_37PM.jpeg?alt=media&token=e2e9e673-ff88-4683-a0b0-9eb3aeeb9559" alt="APIs That Find Your Next Clients" style="max-width: 100%; height: auto;">
+<img src="./assets/banner.png" alt="APIs That Find Your Next Clients" style="max-width: 100%; height: auto;">
 
 **One of the most valuable lead API lists on GitHub** — 4,431 ready-to-use lead-finding APIs you can start using immediately to fill your pipeline, from contact enrichment to B2B prospecting.
 
