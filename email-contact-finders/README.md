@@ -1108,6 +1108,11 @@ Find, validate, and enrich emails and contact details at scale.
 | [Zoominfo People Search Scraper](https://apify.com/pratikdani/zoominfo-people-search-scraper?fpr=p2hrc6) | Extracts publicly available contact and professional information from Zoominfo's people search results. Scrapes data like names, titles, companies, and locations, enabling targeted lead generation and... |
 | [Zoopla Scraper](https://apify.com/cryptosignals/zoopla-scraper?fpr=p2hrc6) | Scrape UK property listings from Zoopla. Get address, asking price, bedrooms, property type, tenure, agent, photos, and listing history. Ideal for UK real estate market analysis and lead generation.... |
 | [Парсер 2ГИС онлайн: телефоны, email и база компаний](https://apify.com/tugelbay/2gis-scraper?fpr=p2hrc6) | Парсер 2ГИС онлайн: телефоны, сайты, email, отзывы, координаты компаний из России, Казахстана, ОАЭ, Узбекистана, Кыргызстана, Армении, Грузии и Азербайджана. Excel, CSV и API. Guide:... |
+| [Lead Contact Extractor API](https://apimesa.com) | Scans any public web page and returns its email addresses, phone numbers, and social profile links as clean structured data. |
+| [Email Finder API](https://apimesa.com) | Finds a person's work email from their name and company domain using MX validation, homepage scraping, and real SMTP verification. |
+| [Contact Extract API](https://apimesa.com) | Extract emails, URLs, and US-style phone numbers from pasted text without a model call. |
+| [Email Validate API](https://apimesa.com) | Normalize and validate email syntax, returning local and domain parts. |
+| [Bulk Email Validator](https://apimesa.com) | Validate up to 100 emails in one call with syntax, MX-record, disposable-domain, and role-based checks — 30 credits per call. |
 
 ---
 
