@@ -445,6 +445,7 @@ Company registries, firmographics, tech stacks, and business intelligence.
 | [Yelp Scraper - Extract Business Data, Contacts & Reviews](https://apify.com/khadinakbar/yelp-scraper-all-in-one?fpr=p2hrc6) | Scrape Yelp businesses at scale — name, rating, reviews count, address, phone, hours, photos, categories, and direct contact info. MCP-ready. $3/1K results. |
 | [YELP.com [Only $2.75] Search & Business & Reviews Scraper](https://apify.com/memo23/yelp-scraper?fpr=p2hrc6) | Extract Yelp business data: name, rating, reviews, price level, categories, full address, phone, website, photos, hours, owner info, review highlights, amenities & services (delivery, dietary options,... |
 | [Zefix.ch Scraper - Swiss Commercial Register](https://apify.com/santamaria-automations/zefix-ch-scraper?fpr=p2hrc6) | Scrape company data from Zefix (Zentraler Firmenindex), the official Swiss central business name index operated by the Federal Office of Justice. Extract UID numbers, legal forms, company purposes,... |
+| [Company & Contact Intelligence](https://apimesa.com) | Crawl a company site to assemble public business identity, emails, phones, addresses, social profiles, technologies, and contact-page evidence. |
 
 ---
 
