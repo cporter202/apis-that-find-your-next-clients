@@ -367,6 +367,7 @@ Google Maps, local business directories, real estate agents, and geo leads.
 | [Zoopla Search Properties Bulk Scraper Pro](https://apify.com/hello.datawizards/zoopla-search-properties-bulk-scraper-pro?fpr=p2hrc6) | Zoopla Search Properties Bulk Scraper Pro: Scrape Zoopla property listings with ease. Extract detailed data like address, price, agent info, and images by location and filters. Ideal for real estate... |
 | [Zumper Listings Scraper](https://apify.com/velvety_bedbug/zumper-listings-scraper?fpr=p2hrc6) | Zumper apartment/house rental listings by ZIP, city, or map bounding box — address, price range, beds, baths, sqft, amenities, building name, agent/brokerage, pet policy, and URL. Backed by the Zumper... |
 | [Zumper Rental Scraper - Apartments with Ratings & More](https://apify.com/benthepythondev/zumper-rental-scraper?fpr=p2hrc6) | Scrape rental listings from Zumper.com with ratings, verification status, and Airbnb-friendly filters. Extract prices, beds/baths, amenities, photos, and landlord ratings. Filter by location, price,... |
+| [Local Lead Finder](https://apimesa.com) | Find real local businesses for any trade in any city — names, addresses, phones, and websites pulled live from OpenStreetMap data. |
 
 ---
 
